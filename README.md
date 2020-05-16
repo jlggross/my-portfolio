@@ -2,7 +2,9 @@
 
 # My Portfolio
 
-[TODO] Introduction on projects, objectives...
+Here you can find a summary of previous and ongoing works I did and keep doing until today. During my Master's Degree I realized that one area I would like to make projects and work with was Big Data. Gathering, manipulating and visualizing data are key steps to get insights on almost anything you can think of, and in a world were Big Data is the norm, mastering these data manipulation habilities made studying Data Science related technologies an easy choice. 
+
+In my portfolio you will find some of the projects I created while studying Data Science technologies such as Python libraries for data gathering (```beautifulSoup```), manipulation (```pandas```) and visualization (```matplotlib```, ```seaborn```). Git, R, Statistical Analysis, Jupiter Notebooks and other topics are mentioned in the projects. Also a link to the articles I wrote on these subjects is presented below.
 
 ## How to find me
 * [LinkedIn](https://www.linkedin.com/in/jlggross/)
