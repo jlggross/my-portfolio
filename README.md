@@ -17,7 +17,7 @@
 
 ---
 
-### About Me:
+### About Me
 
 My name is João Luiz Grave Gross, Data Science and Machine Learning enthusiast, continuously improving in Python programming, artificial inteligence topics and data manipulation. 
 
