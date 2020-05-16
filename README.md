@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/jlggross-linkedin-blue.svg)](https://www.linkedin.com/in/jlggross/) [![](https://img.shields.io/badge/python-3.7%2B-brightgreen.svg)](https://www.python.org/downloads/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-yellow.svg)](https://github.com/jlggross/)
+[![author](https://img.shields.io/badge/jlggross-linkedin-blue.svg)](https://www.linkedin.com/in/jlggross/) [![](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-yellow.svg)](https://github.com/jlggross/)
 
 # My Portfolio
 
