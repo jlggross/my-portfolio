@@ -1,24 +1,26 @@
-[![author](https://img.shields.io/badge/author-fulano-red.svg)](https://www.linkedin.com/in/carlosfab) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
+[![author](https://img.shields.io/badge/jlggross-linkedin-blue.svg)](https://www.linkedin.com/in/jlggross/) [![](https://img.shields.io/badge/python-3.7%2B-brightgreen.svg)](https://www.python.org/downloads/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-yellow.svg)](https://github.com/jlggross/)
 
-# Portfólio de Data Science
+# My Portfolio
 
-Coloque uma descrição sobre sua carreira, projetos e o que se pode esperar deste portfólio...
+[TODO] Introduction on projects, objectives...
 
-Escreva uma descrição bem detalhada e introdutória.
+## How to find me
+* [LinkedIn](https://www.linkedin.com/in/jlggross/)
+* [Facebook](https://www.facebook.com/jlggross10)
+* [Instagram](https://www.instagram.com/jlggross/)
+* [Twitter](https://twitter.com/jlggross)
+* [goodreads](https://www.goodreads.com/user/show/33752957-jo-o-gross)
 
-* [LinkedIn](https://www.linkedin.com/in/carlosfab//)
+## Data Science Projects
 
-## Projetos de Data Science
-
-* **Análise Exploratória de Doenças Cardiovasculares:** https://bit.ly/2YPWKvi
+* **TODO:** [link]
 
 ---
 
-### Sobre Mim:
+### About Me:
 
-Sou Carlos Melo, Piloto Militar da Força Aérea Brasileira e Engenheiro de Missão de Satélite no Centro de Operações Espaciais (COPE), em Brasília-DF. Também sou o autor do *blog* [sigmoidal.ai](http://sigmoidal.ai), focado em Data Science, Deep Learning e Pyhton.
+My name is João Luiz Grave Gross, Data Science and Machine Learning enthusiast, continuously improving in Python programming, artificial inteligence topics and data manipulation. 
 
-* Graduação em Ciências Aeronáuticas pela AFA.
-* Mestrado em Ciências e Tecnologias Espaciais pelo ITA.
-* MBA em Gestão de Projetos e Processos pela UNIFA.
-* Curso de Operações Espaciais pela Força Aérea Canadense.
+* Bachelor's Degree in Computer Science by [Institute of Informatics](https://www.inf.ufrgs.br/site/) from [Federal University of Rio Grande do Sul (UFRGS)](http://www.ufrgs.br/ufrgs/inicial).
+* Master's Degree in Computer Science, with spacialization in IoT, Edge arquitectures and Big Data, by [Institute of Informatics](https://www.inf.ufrgs.br/site/).
+* Postgraduate in Artifical Inteligence by [Unyleya - Excellence Center in Technology and Cyber Technology](https://cetec.unyleya.edu.br/)
