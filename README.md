@@ -17,6 +17,11 @@
 
 ---
 
+## Articles
+In [this](https://github.com/jlggross/articles) repository you can find a series of articles I wrote talking about topics on Operational Systems, Linux/Shell, Python, Data Science libraries for data manipulation (```numpy```, ```pandas```) and data visualization (```matplotlib```, ```seaborn```), and others.
+
+I found articles to be a good way to exercise some of the information I just learned and that I think are worth sharing with the community. Also, articles ideas are always welcomed. Contact me!
+
 ### About Me
 
 My name is João Luiz Grave Gross, Data Science and Machine Learning enthusiast, continuously improving in Python programming, artificial inteligence topics and data manipulation. 
