@@ -9,7 +9,7 @@
 * [Facebook](https://www.facebook.com/jlggross10)
 * [Instagram](https://www.instagram.com/jlggross/)
 * [Twitter](https://twitter.com/jlggross)
-* [goodreads](https://www.goodreads.com/user/show/33752957-jo-o-gross)
+* [Goodreads](https://www.goodreads.com/user/show/33752957-jo-o-gross)
 
 ## Data Science Projects
 
